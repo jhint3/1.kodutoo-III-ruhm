@@ -1,5 +1,7 @@
 <?php 
-	// Kuna esimene kodu töö login alguse saan võtta viimastelt tundidelt, kus juba olemas ka teated siis võtsin need sealt.
+// MVP kuna pole praegu häid mõtteid selles osas tulnud veel, siis teen 
+// näiteks rahvsvahelise üliõpilaste lehe kus üliõpilased saavad omavahel rääkida, erinevate riigi koolidest ja kogemustest ja õpingutest jne.
+// Kuna esimene kodu töö login alguse saan võtta viimastelt tundidelt, kus juba olemas ka teated siis võtsin need sealt.
     // lisan siis esimesele kodutööle veel kaks välja ja muudan ka lehe värvi kollaseks 	
 	$signupEmailError = "";
 	$signupEmail = "";
@@ -78,7 +80,7 @@
 	
 	}
 	
-	// ei ole endiselt mingit lehte välja mõelnud ja ei tea mida sinna veel lisada
+	
 	//lisan siis 2 välja kus saab valida riigi ja leida oma koordinaadid. 
 ?>
 <!DOCTYPE html>
